@@ -1,6 +1,6 @@
-package com.Xworkz.programmimgAptitude;
+package com.xworkz.starPatterns;
 
-public class Pattern5 {
+public class Reversesidetriangle {
 
 	public static void main(String[] args) {
 		int num=5;

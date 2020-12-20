@@ -1,4 +1,4 @@
-package com.Xworkz.programmimgAptitude;
+package com.xworkz.starPatterns;
 public class Twoarray {
 
 	public static void main(String[] args) {

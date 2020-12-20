@@ -1,4 +1,4 @@
-package com.Xworkz.programmimgAptitude;
+package com.xworkz.starPatterns;
 
 public class Crossbar {
 
@@ -9,7 +9,7 @@ public class Crossbar {
 				System.out.print(" ");
 				
 				} 
-					System.out.print("*");	
+					System.out.println("*");	
 		}
 		System.out.println();
 		
